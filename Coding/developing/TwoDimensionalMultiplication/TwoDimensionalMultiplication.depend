@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1490537455 source:e:\ubuntu backup\document\developing\twodimensionalmultiplication\main.c
+	<stdio.h>
+	<stdlib.h>
+

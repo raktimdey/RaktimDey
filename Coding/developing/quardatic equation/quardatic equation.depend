@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1487400651 source:e:\ubuntu backup\document\developing\quardatic equation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
